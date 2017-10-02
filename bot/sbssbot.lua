@@ -239,18 +239,18 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {363109121},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @sina7sk
+    @iran_trir_turkey
     Manager:
-    @yellowhat
+    @iran_trir_turkey
     Founder:
-    @amirho3in
+    @iran_trir_turkey
     
     Special Thank To:
     Mehr Pouya
@@ -344,8 +344,8 @@ _________________________________________
 _________________________________________
 _________________________________________
 ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+@iran_trir_turkey
+@iran_trir_turkey
 ]]
   }
   serialize_to_file(config, './data/config.lua')
